@@ -16,6 +16,11 @@ O iPhone foi apresentado como **três dispositivos em um**:
 
 Este projeto modela esse conceito usando **diagramas de classe UML** e **interfaces/classes Java**.
 
+## ✅ Objetivos
+
+* [x] Criar um diagrama UML usando a sintaxe do [Mermaid](https://mermaid.js.org/)
+* [x] Representar o iPhone como uma composição de múltiplos componentes funcionais
+* [ ] (Opcional) Implementar as classes e interfaces correspondentes em Java
 ---
 
 ## 📐 UML Class Diagram (Mermaid)
@@ -49,9 +54,3 @@ classDiagram
           +refreshPage()
         }
 ```
-
-## ✅ Objetivos
-
-* [x] Criar um diagrama UML usando a sintaxe do [Mermaid](https://mermaid.js.org/)
-* [x] Representar o iPhone como uma composição de múltiplos componentes funcionais
-* [ ] (Opcional) Implementar as classes e interfaces correspondentes em Java
